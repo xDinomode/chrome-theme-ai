@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "version": "2.6",
+  "name": "ai-orange",
+  "theme":{
+    "images": {
+      "theme_frame": "images/frame.png",
+      "theme_toolbar": "images/toolbar.png",
+      "theme_ntp_background": "images/brainbg.png",
+      "theme_tab_background": "images/tab.png"
+    },
+    "colors" : {
+      "frame" : [32, 32, 32],
+      "toolbar" : [32, 32, 32],
+      "tab_text":[254,101,59],
+      "ntp_text" : [255, 255, 255],
+      "bookmark_text": [254,101,59],
+      "tab_background_text": [224, 233,255],
+      "ntp_link" : [32, 32, 32],
+      "ntp_section" : [207, 221, 192],
+      "button_background" : [32,32,32]
+    },
+    "tints" : {
+      "buttons" : [0.79, 0.5, 0.39]
+    }
+  }
+
+}
